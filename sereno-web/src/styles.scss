@@ -1,0 +1,40 @@
+html,
+body,
+header.index-header,
+#intro {
+  height: 100%;
+}
+
+body {
+  background-color: #546965;
+}
+
+#intro {
+  background: url("assets/index/indexImage.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#intro2 {
+  background: url("assets/index/indexImage2.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.mt-10 {
+  margin-top: 90px;
+}
+
+.fluent-card {
+  background-color: gray;
+  color: white;
+  opacity: 70%;
+}
+
+.font-poppins {
+  font-family: 'Poppins';
+}
